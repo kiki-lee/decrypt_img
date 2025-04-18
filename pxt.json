@@ -28,5 +28,31 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj"{
+    "name": "Decryptor_w_extensions",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "decrypt_img": "github:kiki-lee/decrypt_img#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "decrypt.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.24",
+        "tag": "v2.0.24",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5d0807b3e66365c92538c5ff5bea84ed9ebd0117",
+        "target": "2.0.24",
+        "pxt": "11.3.29"
+    },
+    "preferredEditor": "tsprj",
+    "assetPack": true
+
 }

@@ -1,0 +1,77 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "space"
+    },
+    "image3": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAADwAADwDwAAAPAAAPAPAAAA8AAA8A8AAADwAADwDw//8PAAAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img1"
+    },
+    "image4": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPD//w8AAA8A8AAADwAADwDwAAAPAAAPAPAAAA8AAA8A8AAADwAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img2"
+    },
+    "image9": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPAAAPD//w8A8AAA8AAADwDwAADwAAAPAPAAAPAAAA8A8AAA8AAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img7"
+    },
+    "image10": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAA8AAADwDwAADwAAAPAPAAAPAAAA8A8AAA8AAADwDwAADw//8PAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img8"
+    },
+    "image11": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAAAAAAPAPAA////AA8A8AAPAPAADwDwAA8A8AAPAPAADwDwAA8A8AAPAPAADwDwAP///wAPAPAAAAAAAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img9"
+    },
+    "image2": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAD/AAAPAPAAAP8AAA8A8AAA/wAADwDw8P///w8PAPDw////Dw8A8AAA/wAADwDwAAD/AAAPAPAAAP8AAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img0"
+    },
+    "image5": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAAAAAAPAPD//w8AAA8A8AAADwAADwDwAAAPAAAPAPAAAA8AAA8A8AAADwAADwDw//8PAAAPAPAAAAAAAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img3"
+    },
+    "image6": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAAAAAAPAPAAAPD//w8A8AAA8AAADwDwAADwAAAPAPAAAPAAAA8A8AAA8AAADwDwAADw//8PAPAAAAAAAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img4"
+    },
+    "image7": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAPAPAADwDwAA8A8AAPAPAADwDwAA8A8AAPAPAADwDwAP///wAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img5"
+    },
+    "image8": {
+        "data": "hwQOAA4AAAAAAAAAAAAAAPD//////w8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPAA////AA8A8AAPAPAADwDwAA8A8AAPAPAADwDwAA8A8AAPAPAADwDw//////8PAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img6"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADw/wAAAAAAAP//AAAAAADw/wAAAAAAAP8PAAAAAADw/wAAAAAAAP8AAAAAAADwDwAAAAAAAAD/AAAAAAAAAPD/AAAAAAAAAP8PAAAAAAAA8P8AAAAAAAAA//8AAAAAAADw/wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "up"
+    },
+    "image13": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/DwAAAAAAAP//AAAAAAAAAP8PAAAAAAAA8P8AAAAAAAAA/w8AAAAAAAAA/wAAAAAAAADwDwAAAAAAAP8AAAAAAAD/DwAAAAAA8P8AAAAAAAD/DwAAAAAA//8AAAAAAAD/DwAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "down"
+    },
+    "image14": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAA/w8AAAAAAADw/w8AAAAAAADw/wAAAAAAAAD/AAAAAAAA8P8AAAAAAPD/DwAAAADw/w8AAAAA8P8PAAAAAPD/DwAAAADw/w8AAAAAAPAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "check"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
